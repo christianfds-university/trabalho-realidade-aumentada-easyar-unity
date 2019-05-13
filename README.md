@@ -1,4 +1,4 @@
-# Trabalho de Realidade Aumentada - Unity
+# Trabalho de Realidade Aumentada - Unity EasyAR
 Trabalho desenvolvido em 2018 para a matéria de Realidade Aumentada do curso de Bacharelado em Ciência da Computação da UNIOESTE - Foz.
 
 ## Trabalho proposto:
